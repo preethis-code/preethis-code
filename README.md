@@ -1,15 +1,8 @@
-# Hey, I'm Preethi 👩‍💻
-
-> *Learning. Building. Growing.*
-
+# Hi, I'm Preethi 👩‍💻
 ---
-
-### 🌱 About Me
 - 🎓 CS Student  
 - 💡 Exploring tech + creativity  
-- 🔭 Currently learning DSA & Web Dev  
-- ⚡ Love minimal design & productivity  
-
+- 🔭 Currently learning DSA , Web Dev & AI  
 ---
 
 <p align="center">
@@ -30,18 +23,9 @@
 
 ---
 
-### 🌐 Connect
+### 🌐 Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
----
-
-### 📌 Student Life
-
-- 📚 Learning consistently  
-- 🛠 Building small projects  
-- 🎯 Improving step by step  
-
----
 
