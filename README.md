@@ -1,4 +1,4 @@
-# Hi, I'm Preethi 👩‍💻
+# Hi,there!!
 ---
 - 🎓 CS Student  
 - 💡 Exploring tech + creativity  
