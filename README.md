@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
+  <img src="https://pin.it/3x5hrQlRi" width="70%" />
 </p>
 
 ---
