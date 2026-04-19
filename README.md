@@ -10,41 +10,21 @@
 </p>
 
 ---
-### Tech Stack
 
-#### Languages
+### Tech Stack
 <table>
 <tr>
 <td align="center">Python<br><img src="https://skillicons.dev/icons?i=python" /></td>
 <td align="center">C++<br><img src="https://skillicons.dev/icons?i=cpp" /></td>
-</tr>
-</table>
-
-#### Frontend
-<table>
-<tr>
 <td align="center">HTML<br><img src="https://skillicons.dev/icons?i=html" /></td>
 <td align="center">CSS<br><img src="https://skillicons.dev/icons?i=css" /></td>
-</tr>
-</table>
-
-#### Database
-<table>
-<tr>
 <td align="center">MongoDB<br><img src="https://skillicons.dev/icons?i=mongodb" /></td>
-</tr>
-</table>
-
-#### Tools
-<table>
-<tr>
 <td align="center">Notion<br><img src="https://skillicons.dev/icons?i=notion" /></td>
 <td align="center">Canva<br><img src="https://i.pinimg.com/736x/f9/aa/66/f9aa669befe7d865284b11cc2a2365b7.jpg" width="48" /></td>
 </tr>
 </table>
 
 ---
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
