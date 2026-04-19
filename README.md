@@ -1,4 +1,4 @@
-# Hi,there!!
+# Hi,I'm Preethi.
 ---
 -  CS Student  
 -  Currently learning and building skills
