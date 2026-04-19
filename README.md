@@ -24,7 +24,7 @@
 <table>
 <tr>
 <td align="center">HTML<br><img src="https://skillicons.dev/icons?i=html" /></td>
-<td align="center">CSS<br><img src="https://skillicons.dev/icons?i=css" /></td>
+<td align="center">CSS<br><img src="https://i.pinimg.com/736x/ee/ae/3c/eeae3c3d518ea0a1500b0f5f44860863.jpg" /></td>
 </tr>
 </table>
 
