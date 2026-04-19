@@ -39,7 +39,7 @@
 <table>
 <tr>
 <td align="center">Notion<br><img src="https://skillicons.dev/icons?i=notion" /></td>
-<td align="center">Canva<br><img src="https://skillicons.dev/icons?i=figma" /></td>
+<td align="center">Canva<br><img src="https://skillicons.dev/icons?i=canva" /></td>
 </tr>
 </table>
 
