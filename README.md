@@ -39,7 +39,7 @@
 <table>
 <tr>
 <td align="center">Notion<br><img src="https://skillicons.dev/icons?i=notion" /></td>
-<td align="center">Canva<br><img src="https://i.pinimg.com/736x/ee/ae/3c/eeae3c3d518ea0a1500b0f5f44860863.jpg" /></td>
+<td align="center">Canva<br><img src="https://i.pinimg.com/736x/f9/aa/66/f9aa669befe7d865284b11cc2a2365b7.jpg" width="48" /></td>
 </tr>
 </table>
 
