@@ -10,23 +10,39 @@
 </p>
 
 ---
-
 ### 💻 Tech Stack
 
 #### 🚀 Languages
-![Python](https://img.shields.io/badge/python-1f2937?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-1f2937?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<table>
+<tr>
+<td align="center">Python<br><img src="https://skillicons.dev/icons?i=python" /></td>
+<td align="center">C++<br><img src="https://skillicons.dev/icons?i=cpp" /></td>
+</tr>
+</table>
 
 #### 🌐 Frontend
-![HTML](https://img.shields.io/badge/html-1f2937?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-1f2937?style=for-the-badge&logo=css3&logoColor=white)
+<table>
+<tr>
+<td align="center">HTML<br><img src="https://skillicons.dev/icons?i=html" /></td>
+<td align="center">CSS<br><img src="https://skillicons.dev/icons?i=css" /></td>
+</tr>
+</table>
 
 #### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/mongodb-1f2937?style=for-the-badge&logo=mongodb&logoColor=white)
+<table>
+<tr>
+<td align="center">MongoDB<br><img src="https://skillicons.dev/icons?i=mongodb" /></td>
+</tr>
+</table>
 
 #### 🛠️ Tools
-![Notion](https://img.shields.io/badge/notion-1f2937?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-1f2937?style=for-the-badge&logo=canva&logoColor=white)
+<table>
+<tr>
+<td align="center">Notion<br><img src="https://skillicons.dev/icons?i=notion" /></td>
+<td align="center">Canva<br><img src="https://skillicons.dev/icons?i=figma" /></td>
+</tr>
+</table>
+
 ---
 
 
