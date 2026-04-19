@@ -10,9 +10,9 @@
 </p>
 
 ---
-### 💻 Tech Stack
+### Tech Stack
 
-#### 🚀 Languages
+#### Languages
 <table>
 <tr>
 <td align="center">Python<br><img src="https://skillicons.dev/icons?i=python" /></td>
@@ -20,7 +20,7 @@
 </tr>
 </table>
 
-#### 🌐 Frontend
+#### Frontend
 <table>
 <tr>
 <td align="center">HTML<br><img src="https://skillicons.dev/icons?i=html" /></td>
@@ -28,14 +28,14 @@
 </tr>
 </table>
 
-#### 🗄️ Database
+#### Database
 <table>
 <tr>
 <td align="center">MongoDB<br><img src="https://skillicons.dev/icons?i=mongodb" /></td>
 </tr>
 </table>
 
-#### 🛠️ Tools
+#### Tools
 <table>
 <tr>
 <td align="center">Notion<br><img src="https://skillicons.dev/icons?i=notion" /></td>
