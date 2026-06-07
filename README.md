@@ -31,11 +31,11 @@
 ---
 
 <p align="center">
-<a href="https://linkedin.com/in/your-link">
+<a href="https://www.linkedin.com/in/preethi-s-b9b761393/">
   <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:s.preethi.contact@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
